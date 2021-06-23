@@ -1,16 +1,13 @@
 <resources>
     <string name="app_name">Check Not</string>
-    <string name="action_settings">Settings</string>
-    <!-- Strings used for fragments for navigation -->
-    <string name="first_fragment_label">First Fragment</string>
-    <string name="second_fragment_label">Second Fragment</string>
-    <string name="next">Next</string>
-    <string name="previous">Previous</string>
 
-    <string name="hello_first_fragment">Hello first fragment</string>
-    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="message">Made with ❤</string>
+    <string name="title">Title</string>
+    <string name="demo_text">Aa</string>
+    <string name="empty_fields">All fields are empty!</string>
 
     <string name="tab_icon">Tab Icon</string>
     <string name="settings_icon">Settings Icon</string>
     <string name="fab_icon">Floating Button Icon</string>
+    <string name="button_icon">Button Icon</string>
 </resources>

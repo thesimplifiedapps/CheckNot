@@ -1,6 +1,5 @@
 package com.thesimplifiedapps.checknot.data.entities
 
-import androidx.room.ColumnInfo
 import androidx.room.Entity
 import androidx.room.PrimaryKey
 
@@ -8,6 +7,15 @@ import androidx.room.PrimaryKey
 data class Note(
 
     @PrimaryKey(autoGenerate = true)
-    @ColumnInfo(name = "id")
-    val noteId: Int
+    var id: Int? = null,
+
+    var title: String,
+
+    var notes: String,
+
+    var backColor: Int,
+
+    var fontColor: Int,
+
+    var addedTime: Long = System.currentTimeMillis()
 )

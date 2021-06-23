@@ -7,5 +7,37 @@
     <color name="pink_700">#C2185B</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="white_transparent">#80FFFFFF</color>
+    <color name="cancel">#FC0202</color>
     <color name="logo_background">#EDD0F8</color>
+    <color name="bottom_card_color">#B3BF9ED8</color>
+    <color name="grey">#A1A0A0</color>
+
+<!--    background-->
+    <color name="background_1">#FF000000</color>
+    <color name="background_2">#F80101</color>
+    <color name="background_3">#910101</color>
+    <color name="background_4">#FAC203</color>
+    <color name="background_5">#C3E600</color>
+    <color name="background_6">#00E1C2</color>
+    <color name="background_7">#00A3ED</color>
+    <color name="background_8">#0069DA</color>
+    <color name="background_9">#3700B3</color>
+    <color name="background_10">#8C00C5</color>
+    <color name="background_11">#EA00CB</color>
+    <color name="background_12">#C18282</color>
+
+<!--    font-->
+    <color name="font_1">#FFFFFFFF</color>
+    <color name="font_2">#F17575</color>
+    <color name="font_3">#F3BE84</color>
+    <color name="font_4">#E2F18C</color>
+    <color name="font_5">#C0F4A0</color>
+    <color name="font_6">#83F8EA</color>
+    <color name="font_7">#81BAF6</color>
+    <color name="font_8">#CB87EF</color>
+    <color name="font_9">#7E70F6</color>
+    <color name="font_10">#E08BF3</color>
+    <color name="font_11">#F48AE6</color>
+    <color name="font_12">#BC8A8A</color>
 </resources>
